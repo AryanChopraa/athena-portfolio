@@ -18,7 +18,7 @@ function App() {
       <div className='team text-white' >team</div>
       <div className='contact text-white' >contact</div>
      */}
-     <Events/>
+     {/* <Events/> */}
      
     </div>
     
